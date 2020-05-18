@@ -1,0 +1,2 @@
+rootProject.name='Tugas UAS'
+include ':app'
